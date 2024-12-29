@@ -1,6 +1,6 @@
 # contactflow
 
-## Project Overview: Full Stack ReactJS with Spring Boot
+## Full Stack ReactJS with Spring Boot
 
 I have developed a comprehensive full-stack application utilizing Spring Boot on the backend and ReactJS on the frontend. This project demonstrates my proficiency in modern web development technologies and frameworks, ensuring a robust, scalable, and user-friendly application. Below is a detailed description of the technologies and features implemented in the project.
 
